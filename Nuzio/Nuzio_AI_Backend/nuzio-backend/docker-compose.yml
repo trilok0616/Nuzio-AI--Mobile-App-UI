@@ -1,0 +1,12 @@
+services:
+  mongo:
+    image: mongo:7
+    container_name: nuzio-mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - nuzio_mongo_data:/data/db
+
+volumes:
+  nuzio_mongo_data:
