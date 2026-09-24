@@ -32,6 +32,3 @@ Style
 - Main UI font: Inter
 - Brand tagline: Georgia Italic
 
-Important
-The logo in these starter files is a temporary abstract mark because the actual logo-1.png was not supplied in the chat.
-Replace only the logo mark when you receive the original logo. Do not add the text “Nuzio AI” beside it.
